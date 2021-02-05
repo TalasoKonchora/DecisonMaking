@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Decision Making</string>
+    <string name="txtTitle">Make Daily Decisions Easily</string>
+    <string name="btnAsk">Help me Decide</string>
+</resources>
